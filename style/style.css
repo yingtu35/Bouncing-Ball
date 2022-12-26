@@ -1,0 +1,44 @@
+/* Created by Ying Tu */
+body {
+	background-color: #c3c3c3;
+}
+
+h1 {
+  text-align: center;
+	color: #4c6ebb
+}
+
+.description {
+  text-align: center;
+}
+
+.game-canvas {
+	text-align: center;
+}
+
+canvas {
+	width: 50%;
+	background-image: url("https://img.freepik.com/premium-vector/sky-day-game-background_7814-306.jpg?w=1800");
+	background-size: 600px 400px;
+}
+
+.button {
+	text-align: center;
+}
+
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+}
+
+footer {
+	text-align: center;
+	font-size: 16px;
+}
